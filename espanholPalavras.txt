@@ -12,6 +12,10 @@ animal
 animalito
 cianuro
 no siempre
+ayuda
+ayudar
+ayudado
+ayudando
 comer
 atrocidad
 candado
@@ -43,8 +47,12 @@ dónde
 adónde
 almuerzo
 almorzar
+almorzado
+almorzando
+dedicación
 dedicar
 dedicado
+dedicando
 oreja
 timbre
 cemento

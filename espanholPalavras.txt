@@ -37,6 +37,8 @@ comido
 comiendo
 hasta dónde
 zanahoria
+pizarra
+mármol
 mochila
 esquina
 parrilla

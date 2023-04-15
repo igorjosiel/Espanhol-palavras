@@ -11,12 +11,16 @@ comida
 animal
 animalito
 cianuro
+enero
+diciembre
 no siempre
 ayuda
 ayudar
 ayudado
 ayudando
 comer
+comido
+comiendo
 atrocidad
 candado
 peluquería
@@ -31,8 +35,10 @@ al frente
 en frente
 hostilidad
 hostil
+cumpleaños
 iglesia
 enemistad
+sillón
 comido
 comiendo
 hasta dónde
@@ -73,3 +79,8 @@ lo contrario
 terreno
 inocuo
 inocuidad
+recuerdo
+recordar
+recordando
+recordado
+chocolate

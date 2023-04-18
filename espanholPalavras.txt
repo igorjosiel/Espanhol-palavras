@@ -12,6 +12,8 @@ animal
 animalito
 cianuro
 enero
+duelo
+chorradas
 diciembre
 no siempre
 ayuda
@@ -84,3 +86,13 @@ recordar
 recordando
 recordado
 chocolate
+chivata
+mono
+
+
+
+porrito
+mojón
+comedor
+pincho
+chela

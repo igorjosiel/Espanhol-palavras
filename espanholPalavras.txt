@@ -12,6 +12,7 @@ animal
 animalito
 cianuro
 enero
+menos mal
 duelo
 chorradas
 diciembre
@@ -93,6 +94,18 @@ mono
 comedor
 porrito
 pincho
+monstruo
+monstruoso
+monstruosa
+monstruosidad
+curioso
+curiosa
+curiosidad
+bestia
+mayonesa
+callejero
+buseta
+personita
 
 mojón
 chela

@@ -6,10 +6,22 @@ caballo
 cerdo
 chuleta
 hígado
+paliza
+hambre
+hambriento
+hambrienta
+sed
+sediento
+sedienta
 atroz
 comida
 animal
 animalito
+nadar
+nadado
+nadador
+dadando
+tenedor
 cianuro
 enero
 menos mal
@@ -25,6 +37,12 @@ comer
 comido
 comiendo
 atrocidad
+robar
+robo
+robado
+robando
+ladrón
+juguetería
 candado
 peluquería
 ir
@@ -54,6 +72,8 @@ parrilla
 anoche
 pedir
 pedido
+pidiendo
+petición
 dónde
 adónde
 almuerzo

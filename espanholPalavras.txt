@@ -258,3 +258,5 @@ presentable - apresentável
 presentador - apresentador
 presentación - apresentação
 presentabilidad - apresentabilidade
+habilidad - habilidade
+habilidades - habilidades

@@ -260,3 +260,6 @@ presentación - apresentação
 presentabilidad - apresentabilidade
 habilidad - habilidade
 habilidades - habilidades
+despacio - devagar
+lento - lento
+lentamente - lentamente

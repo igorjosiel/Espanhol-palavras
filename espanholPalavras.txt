@@ -1,131 +1,253 @@
-dedo
-almohada
-perro
-tendedero
-caballo
-cerdo
-chuleta
-hígado
-paliza
-hambre
-hambriento
-hambrienta
-sed
-sediento
-sedienta
-atroz
-comida
-animal
-animalito
-nadar
-nadado
-nadador
-dadando
-tenedor
-cianuro
-enero
-menos mal
-duelo
-chorradas
-diciembre
-no siempre
-ayuda
-ayudar
-ayudado
-ayudando
-comer
-comido
-comiendo
-atrocidad
-robar
-robo
-robado
-robando
-ladrón
-juguetería
-candado
-peluquería
-ir
-yendo
-ido
-cuchara
-cucharón
-parrillada
-al otro lado
-al frente
-en frente
-hostilidad
-hostil
-cumpleaños
-iglesia
-enemistad
-sillón
-comido
-comiendo
-hasta dónde
-zanahoria
-pizarra
-mármol
-mochila
-esquina
-parrilla
-anoche
-pedir
-pedido
-pidiendo
-petición
-dónde
-adónde
-almuerzo
-almorzar
-almorzado
-almorzando
-dedicación
-dedicar
-dedicado
-dedicando
-oreja
-timbre
-cemento
-roñoso
-corbata
-desapercibido
-enemigo
-a menudo
-fama
-famoso
-pelos y señales
-mesquino
-mostaza
-frasco
-lo contrario
-terreno
-inocuo
-inocuidad
-recuerdo
-recordar
-recordando
-recordado
-chocolate
-chivata
-chivato
-chivar
-mono
-comedor
-porrito
-pincho
-monstruo
-monstruoso
-monstruosa
-monstruosidad
-curioso
-curiosa
-curiosidad
-bestia
-mayonesa
-callejero
-buseta
-personita
-
-mojón
-chela
+playa - praia
+mar - mar
+océano - aceano
+descalzo - descalço
+aterdecer - entardecer
+aterdecido - entardecido
+atardeciendo - entardecendo
+césped - gramado
+arena - areia
+buceo - mergulho
+bucear - mergulhar
+buceado - mergulhado
+buceando - mergulhando
+buceador - mergulhador
+buceadora - mergulhadora
+olfato - olfato
+olfateo - farejada
+olfatear - farejar
+olfateado - farejado
+olfateando - farejando
+olfateador - farejador
+rastro - rastro
+paladar - paladar
+pino - pinheiro
+agudo - agudo / aguçado
+ramita - graveto / galho
+sucio - sujo
+ensuciar - sujar
+ensuciado - sujado
+ensuciando - sujando
+suciedad - sujeira
+trapo - pano
+leche - leite
+batido - batido / vitamina
+plátano - banana
+leña - lenha
+leñador - lenhador
+derribar - derrubar
+derribado - derrubado
+derribando - derrubando
+derribador - derrubador
+derribadora - derrubadora
+asedio - assédio / cerco
+soldado - soldado
+pila - pilha
+apilar - empilhar
+apilado - empilhado
+apilando - empilhando
+apilamiento - empilhamento
+apilable - empilhável
+al menos - pelo menos / ao menos
+repisa - prateleira
+no - não
+sí - sim
+sino - mas sim / mas
+calendario - calendario
+lustre - lustre
+hidratar - hidratar
+hidratado - hidratado
+hidratando - hidratando
+hidratante - hidratante
+hidratación - hidratação
+casero - caseiro
+casera - caseira
+mermelada - geleia
+almorzar - almoçar
+almuerzo - almoço
+almorzado - almoçado
+almorzando - almoçando
+cena - janta
+cenar - jantar
+cenado - jantado
+cenando - jantando
+afuera - lá fora
+tobillo - tornozelo
+gallo - galo
+paradero - ponto de ônibus
+punto de bus - ponto de ônibus
+pie - pé
+a pie - a pé
+ciclista - ciclista
+baño - banheiro
+ducha - chuveiro
+duchar - tomar banho / banhar
+duchando - tomando banho / banhando
+duchado - tomado banho / banhado
+grifo - torneira
+recaudar - arrecadar
+recaudación - arrecadação
+recaudado - arrecadado
+recaudando - arrecadando
+hasta ahora - até agora
+correr - correr
+corriendo - correndo
+corrido - corrido
+corredor - corredor
+carrera - corrida
+pasillo - corredor
+elegante - elegante
+elegancia - elegância
+coger - pegar
+cogido - pego
+cogiendo - pegando
+corazón - coração
+medalla - medalha
+logro - conquista
+lograr - conseguir / conquistar / alcançar
+logrado - conquistado / alcançado / conseguido
+logrando - conseguindo / alcançando / conquistando
+lograble - conquistável / alcançável
+extremadamente - extremamente
+extremo - extremo
+trapear - limpar / esfregar
+trapeado - limpado / esfregado
+trapeando - limpando / esfregando
+trapeador - esfregão
+maratón - maratona
+maratonista - maratonista
+lucir - exibir / mostrar
+luciendo - exibindo / mostrando
+lucido - exibido / mostrado
+lucimiento - exibição
+elevador - elevador
+ascensor - elevador
+pagar - pagar
+pagado - pago
+pagando - pagando
+pago - pagamento
+pagable - pagável
+pagador - pagador
+fregadero - pia
+impecable - impecável
+edificio - edifício / prédio
+escombros - escombros
+piso - andar / chão
+juguete - brinquedo
+juguetón - brincalhão
+juguetear - brincar
+jugueteado - brincado
+jugueteando - brincando
+juego - brincadeira / jogo
+alfombra - tapete
+percibir - perceber
+percibido - percebido
+percibiendo - percebendo
+perceptible - perceptível
+perceptivo -perceptivo
+desapercibido - despercebido
+comida - comida
+gato - gato
+perro - cachorro
+cachorro - filhote
+familia - família
+después - depois
+antes - antes
+determinar - determinar
+determinado - determinado
+determinando - determinando
+determinante - determinante
+determinación - determinação
+problema - problema
+siempre - sempre
+nunca - nunca
+ciente - cliente
+restaurante - restaurante
+agua - água
+leche - leite
+muy - muito
+mucho - muito
+ambiente - ambiente
+nuevo - novo
+noche - noite
+día - dia
+piel - pele
+experiencia - experiência
+increíble - incrível
+increiblemente - incrivelmente
+belleza - beleza
+embellecer - embelezar
+embellecido - embelezado
+embelleciendo - embelezando
+embellecimiento - embelezamento
+embellecedor - embelezador
+vestido - vestido
+científico - cientista
+fémur - fémur
+mandíbula - mandíbula
+cabeza - cabeça
+cerebro - cérebro
+cara de palo - cara de pau
+pochoclo - pipoca
+paloma - pomba
+parque - parque
+jardín - jardim
+palomita - pipoca
+grifo - posto de gasolina
+gasolinera - posto de gasolina
+abastecer - abastecer
+abastecido - abastecido
+abasteciendo - abastecendo
+abastecimiento - abastecimento
+abastecedor - fornecedor
+abastecible - abastecível
+suministros - suprimentos
+rato - tempo
+ratón - rato
+ratonera - ratoeira
+emprender el viaje - começar / iniciar a viagem
+en línea - online
+toma de decisión - tomada de decisão
+importante - importante
+fácil - fácil
+difícil - difícil
+chisme - fofoca
+chismoso - fofoqueiro
+chismear - fofocar
+chismeado - fofocado
+chismeando - fofocando
+chismosidad - fofocagem
+crítica - crítica
+crítico - crítico
+criticar - criticar
+criticado - criticado
+criticando - criticando
+criticable - criticável
+rápido - rápido
+rápidamente - rápidamente
+suave - suave
+rudo - rude
+rudeza - rudeza
+no es asunto tuyo - não é da sua conta
+no es problema tuyo - não é problema seu
+entierro - enterro
+enterrar - enterrar
+enterrado - enterrado
+enterrando - enterrando
+enterración - enterro
+cementerio - cemitério
+ataúd - caixão
+lápida - lápide
+tumba - túmulo
+morgue - morgue
+mortuorio - necrotério
+pelea - briga
+pelear - brigar
+peleado - brigado
+peleando - brigando
+peleador - brigador
+peleable - disputável
+partido - partida (jogo)
+partido - partido político
+fútbolista - jogador de futebol
+gradas - arquibancadas

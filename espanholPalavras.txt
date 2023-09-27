@@ -251,3 +251,10 @@ partido - partida (jogo)
 partido - partido político
 fútbolista - jogador de futebol
 gradas - arquibancadas
+presentar - apresentar
+presentado - apresentado
+presentando - apresentando
+presentable - apresentável
+presentador - apresentador
+presentación - apresentação
+presentabilidad - apresentabilidade

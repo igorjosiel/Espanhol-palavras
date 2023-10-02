@@ -264,3 +264,10 @@ habilidades - habilidades
 despacio - devagar
 lento - lento
 lentamente - lentamente
+culpa - culpa
+culpar - culpar
+culpado - culpado
+culpando - culpando
+culpable - culpado
+culpabilidad - culpabilidade
+culpista - culpista

@@ -263,6 +263,7 @@ habilidad - habilidade
 habilidades - habilidades
 despacio - devagar
 lento - lento
+lentitud - lentidão
 lentamente - lentamente
 culpa - culpa
 culpar - culpar

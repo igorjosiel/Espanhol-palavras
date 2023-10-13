@@ -17,3 +17,11 @@ beber - beber
 saborear - saborear
 devorar - devorar
 asar - assar
+cocinero - cozinheiro
+cocinera - cozinheira
+comilón - comilão
+comilona - comilança
+comida - comida
+comiendo - comendo
+comido - comido
+comedor - comedor

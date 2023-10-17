@@ -28,6 +28,8 @@ comida - comida
 comiendo - comendo
 comido - comido
 comedor - comedor
+comestible - comestível
+comible - comível
 bebida - bebida
 bebido - bebido
 bebiendo - bebendo
@@ -43,3 +45,4 @@ filete - bife
 bocado - mordida
 tomar un bocado - dar uma mordida
 tomar el autobus - pegar o ônibus
+salmón - salmão

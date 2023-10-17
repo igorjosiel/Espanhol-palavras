@@ -17,6 +17,9 @@ beber - beber
 saborear - saborear
 devorar - devorar
 asar - assar
+asado - assado
+asando - assando
+asador - assador
 cocinero - cozinheiro
 cocinera - cozinheira
 comilón - comilão
@@ -25,3 +28,17 @@ comida - comida
 comiendo - comendo
 comido - comido
 comedor - comedor
+bebida - bebida
+bebido - bebido
+bebiendo - bebendo
+bebedor - bebedouro
+por error - por engano
+dar la vuelta - dar a volta
+horno - forno
+jugoso - suculento
+jugosa - suculenta
+jugosidad - suculência
+crujiente - crocante
+filete - bife
+bocado - mordida
+tomar un bocado - dar uma mordida

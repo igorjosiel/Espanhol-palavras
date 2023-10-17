@@ -46,3 +46,4 @@ bocado - mordida
 tomar un bocado - dar uma mordida
 tomar el autobus - pegar o ônibus
 salmón - salmão
+pescado - peixe

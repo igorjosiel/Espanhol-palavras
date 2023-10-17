@@ -42,3 +42,4 @@ crujiente - crocante
 filete - bife
 bocado - mordida
 tomar un bocado - dar uma mordida
+tomar el autobus - pegar o ônibus

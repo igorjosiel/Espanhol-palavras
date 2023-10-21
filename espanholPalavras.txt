@@ -50,3 +50,23 @@ pescado - peixe
 ajetreo - agitação / correria
 ajetreado - agitado
 ajetreada - agitada
+fortuna - fortuna
+riqueza - riqueza
+éxito - êxito
+exitoso - bem-sucedido
+exitosa - bem-sucedida
+opulencia - opulência
+opulento - opulento
+opulenta - opulenta
+prosperidad - prosperidade
+próspero - próspero
+próspera - próspera
+prosperar - prosperar
+prosperado - prosperado
+prosperando - prosperando
+rico - rico
+rica - rica
+pobre - pobre
+adinerado - endinheirado
+adinerada - endinheirada
+dinero - dinheiro

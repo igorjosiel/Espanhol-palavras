@@ -11,6 +11,9 @@ comer - comer
 cocinar - cozinhar
 preparar - preparar
 servir - servir
+servido - servido
+sirviendo - servindo
+servidor - servidor
 probar - probar
 masticar - mastigar
 beber - beber

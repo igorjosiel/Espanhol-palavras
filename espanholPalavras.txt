@@ -10,13 +10,22 @@ animado - animado
 comer - comer
 cocinar - cozinhar
 preparar - preparar
+preparación - preparação
+preparado - preparado
+preparada - preparada
+preparando - preparando
 servir - servir
 servido - servido
+servida - servida
 sirviendo - servindo
 servidor - servidor
 probar - probar
 masticar - mastigar
 beber - beber
+bebido - bebido
+bebida - bebida
+bebiendo - bebiendo
+bebedor - bebedouro
 saborear - saborear
 devorar - devorar
 asar - assar
@@ -33,10 +42,6 @@ comido - comido
 comedor - comedor
 comestible - comestível
 comible - comível
-bebida - bebida
-bebido - bebido
-bebiendo - bebendo
-bebedor - bebedouro
 por error - por engano
 dar la vuelta - dar a volta
 horno - forno

@@ -79,3 +79,15 @@ pobre - pobre
 adinerado - endinheirado
 adinerada - endinheirada
 dinero - dinheiro
+susto - susto
+asustar - assustar
+asustado - assustado
+asustada - assustada
+asustando - assustando
+asustador - assustador
+asustadora - assustadora
+apagón - apagão
+villano - vilão
+villana - vilã
+maceta - vaso de planta
+tiroteo - tiroteio

@@ -105,3 +105,17 @@ cuesta - encosta
 chimenea - lareira
 gato - gato
 gata - gata
+desviar - desviar
+desviado - desviado
+desviando - desviando
+desvío - desvio
+desviación - desviação
+desviamiento - desviamento
+desviador - desviador
+inventar - inventar
+invención - invenção
+inventado - inventado
+inventada - inventada
+inventando - inventando
+inventor - inventor
+inventora - inventora

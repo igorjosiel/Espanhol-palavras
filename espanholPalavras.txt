@@ -107,6 +107,7 @@ gato - gato
 gata - gata
 desviar - desviar
 desviado - desviado
+desviada - desviada
 desviando - desviando
 desvío - desvio
 desviación - desviação
@@ -119,3 +120,10 @@ inventada - inventada
 inventando - inventando
 inventor - inventor
 inventora - inventora
+accidente - acidente
+vecino - vizinho
+vecina - vizinha
+vecindario - vizinhança / bairro
+camino - caminho
+ruta - rota
+ciudad - cidade

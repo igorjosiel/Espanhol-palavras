@@ -145,3 +145,8 @@ entregando - entregando
 entregador - entregador
 entregadora - entregadora
 casco - capacete
+recibo - recibo
+asiento trase - assento traseiro / garupa
+asiento - assento
+volante - volante
+neumático - peneu

@@ -5,3 +5,6 @@ hombre - homem
 comida - comida
 comedor - comedor
 comedor - sala de jantar / refeitório
+alimento - alimento
+alimentación - alimentação
+alimentar - alimentar

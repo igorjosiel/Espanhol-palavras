@@ -17,3 +17,6 @@ dormitorio - quarto de dormir
 almohada - travesseiro
 puerta - porta
 ventana - janela
+sábana - lençol
+funda de almohada - fronha
+frazada - cobertor

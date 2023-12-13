@@ -12,3 +12,8 @@ dormir - dormir
 cama - cama
 dormilón - dorminhoco
 dormilona - dorminhoca
+cuarto - quarto de dormir
+dormitorio - quarto de dormir
+almohada - travesseiro
+puerta - porta
+ventana - janela

@@ -8,3 +8,7 @@ comedor - sala de jantar / refeitório
 alimento - alimento
 alimentación - alimentação
 alimentar - alimentar
+dormir - dormir
+cama - cama
+dormilón - dorminhoco
+dormilona - dorminhoca
